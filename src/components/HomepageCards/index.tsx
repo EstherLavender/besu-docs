@@ -18,7 +18,7 @@ type CardItem = {
     | "danger"
     | "link";
 };
-
+// Cardlist Component
 const CardList: CardItem[] = [
   {
     title: "🌐 Public networks",
